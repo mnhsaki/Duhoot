@@ -565,6 +565,11 @@ our_high_product Area
     margin-bottom: 0px;
     color: #566375;
 }
+.prduct_contain .product-titel h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #566375;
+}
 
 .prduct_contain .product-titel p {
     padding-bottom: 12px;
